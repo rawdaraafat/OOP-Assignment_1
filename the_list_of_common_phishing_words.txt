@@ -1,0 +1,59 @@
+1.Account
+
+2.Verify
+
+3.Click here
+
+4.Password
+
+5.Social security number
+
+6.Credit card
+
+7.Bank
+
+8.Update
+
+9.Confirm
+
+10.Urgent
+
+11.Limited time
+
+12.Suspicious activity
+
+13.Secure
+
+14.Login
+
+15.Billing
+
+16.Prize
+
+17.Lottery
+
+18.Refund
+
+19.Account suspended
+
+20.Transaction
+
+21.Invoice
+
+22.Statement
+
+23.Alert
+
+24.Notification
+
+25.PayPal
+
+26.eBay
+
+27.Amazon
+
+28.Apple
+
+29.Google
+
+30.Unusual activity
